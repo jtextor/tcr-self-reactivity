@@ -29,7 +29,7 @@ The defaults can be changed with the flags --d, --m, and --o, matching the data 
 
 will run the single versus double positive models on the sequences in the cd5hi_sample.csv file and save the predictions in cd5hi_predictions.csv. 
 
-The V genes should be in the form "TRBV4\*01" and the J genes should be in the form "TRBJ2-5\*01". A complete list of the accepted V and J genes are defined a the top of the run_ensemble_model.py. The function run_model returns the average predictions for the inputted sequences. 
+The V genes should be in the form "TRBV4\*01" and the J genes should be in the form "TRBJ2-5\*01". A complete list of the accepted V and J genes are defined a the top of the run_ensemble_model.py.
 
 The model can also be run on https://computational-immunology.org/cd5-prediction/. Here both a single sequence or multiple sequences in a csv file containing the sequences, V genes, and J genes (maximum 100) can be predicted. 
 
