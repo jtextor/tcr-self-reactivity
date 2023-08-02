@@ -10,7 +10,7 @@ biorxiv, 2022, doi: [10.1101/2022.11.23.517563](https://doi.org/10.1101/2022.11.
 
 This repository contains the final trained models, a small example data set, and code to run the models on this data. The complete data set can be found on GEO (accession: [GSE221703](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE221703)). 
 
-## System requirments
+## System requirements
 The model is implemented in Python 3.6 and Tensorflow 2.5.0 and should run on all systems. The code was tested on Python 3.9.13 using Tensorflow 2.9.2 on Mac OS X 12.6.
 
 
